@@ -2,12 +2,14 @@ import Card from "./components/cards/Card";
 import Header from "./components/header/Header";
 import Navbar from "./components/navbar/Navbar";
 import data from "../src/helper/data";
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
 
 function App() {
   return (
-  <div>
+  <Router>
     <Navbar />
+
     <Header />
     <div className="card-container">
     {data.map((city) =>
@@ -18,7 +20,7 @@ function App() {
     />
     )}
     </div>
-  </div>
+  </Router>
   );
 }
 
