@@ -1,0 +1,18 @@
+.nav-header{
+    display: flex;
+    background-color: black;
+    justify-content: center;
+    align-items: center;
+    transition: all .2s ease-in-out
+}
+.nav-link{
+    padding: 25px;
+    text-decoration: none;
+    color: white;
+    font-size: 2rem;
+    transition: all .2s ease-in-out
+}
+.nav-link:hover{
+    background-color: #7FD1F7;
+    transition: all .3s ease-in-out;
+}
