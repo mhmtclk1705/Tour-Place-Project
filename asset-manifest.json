@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Tour-Place-Project/static/css/main.c0aa0790.css",
+    "main.css": "/Tour-Place-Project/static/css/main.9bd6c52a.css",
     "main.js": "/Tour-Place-Project/static/js/main.13eebf92.js",
     "index.html": "/Tour-Place-Project/index.html",
-    "main.c0aa0790.css.map": "/Tour-Place-Project/static/css/main.c0aa0790.css.map",
+    "main.9bd6c52a.css.map": "/Tour-Place-Project/static/css/main.9bd6c52a.css.map",
     "main.13eebf92.js.map": "/Tour-Place-Project/static/js/main.13eebf92.js.map"
   },
   "entrypoints": [
-    "static/css/main.c0aa0790.css",
+    "static/css/main.9bd6c52a.css",
     "static/js/main.13eebf92.js"
   ]
 }
