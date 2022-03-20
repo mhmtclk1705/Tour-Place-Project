@@ -6,22 +6,22 @@ function Navbar() {
   return (
     <div>
       <nav className="nav-header">
-        <Link to="/aboutus" className="nav-link">
+        <Link to="Tour-Place-Project/aboutus" className="nav-link">
           ABOUT US
         </Link>
-        <Link to="/foryou" className="nav-link">
+        <Link to="Tour-Place-Project/foryou" className="nav-link">
           FOR YOU
         </Link>
-        <Link to="/services" className="nav-link">
+        <Link to="Tour-Place-Project/services" className="nav-link">
           SERVICES
         </Link>
-        <Link to="/blog" className="nav-link">
+        <Link to="Tour-Place-Project/blog" className="nav-link">
           BLOG
         </Link>
-        <Link to="/vlog" className="nav-link">
+        <Link to="Tour-Place-Project/vlog" className="nav-link">
           VLOG
         </Link>
-        <Link to="/contact" className="nav-link">
+        <Link to="Tour-Place-Project/contact" className="nav-link">
           CONTACT
         </Link>
       </nav>
